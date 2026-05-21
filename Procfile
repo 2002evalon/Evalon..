@@ -1,1 +1,1 @@
-worker: python vip_signals_bot.py
+worker: python vip_signals_bot-4.py
